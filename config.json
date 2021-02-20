@@ -1,0 +1,12 @@
+{
+  "bots":[
+    {
+    "name": "Test_Bot",
+    "prefix": "!",
+    "description": "A test bot for manager",
+    "extension_path": "bot.test.test",
+    "token": "YOUR TOKEN HERE"
+    }
+  ],
+  "python-script": "python3"
+}
